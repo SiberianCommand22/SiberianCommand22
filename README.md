@@ -1,24 +1,11 @@
 ﻿# Siberian Command 22
 
-**Full-Stack Developer · Security Engineer**
-
-Membangun aplikasi production-grade dengan pola secure-by-design.
-Fokus pada offensive security, otomatisasi, dan pengujian celah sebelum dieksploitasi orang lain.
+<p align="center">
+  <strong>Full-Stack Developer · Security Engineer</strong><br>
+  Membangun sistem yang kokoh, menguji celah sebelum dieksploitasi.
+</p>
 
 ---
-
-## Saat Ini
-
-- **SekilatInfo** — platform berita berbasis Next.js, Prisma, Supabase, dan NextAuth.
-- **Security Hardening** — pengujian dan perbaikan OWASP Top 10, alur autentikasi, serta misconfigurasi umum.
-- **Automation** — bot operator Telegram dengan perintah ter-gate, monitoring, dan pemulihan mandiri.
-
-## Stack
-
-- **Languages:** TypeScript, JavaScript, Python, PowerShell
-- **Frameworks:** Next.js, React, Node.js
-- **Data:** PostgreSQL, Prisma, Supabase
-- **Infra:** Vercel, Docker, GitHub Actions
 
 ## Fokus Keamanan
 
@@ -27,6 +14,13 @@ Fokus pada offensive security, otomatisasi, dan pengujian celah sebelum dieksplo
 - JWT Misconfiguration
 - SQL Injection & XSS
 - Security Headers & CORS
+
+## Stack
+
+- **Languages:** TypeScript, JavaScript, Python, PowerShell
+- **Frameworks:** Next.js, React, Node.js
+- **Data:** PostgreSQL, Prisma, Supabase
+- **Infra:** Vercel, Docker, GitHub Actions
 
 ## Statistik
 
