@@ -20,12 +20,22 @@ Fokus pada offensive security, otomatisasi, dan pengujian celah sebelum dieksplo
 - **Data:** PostgreSQL, Prisma, Supabase
 - **Infra:** Vercel, Docker, GitHub Actions
 
-## Stats
+## Fokus Keamanan
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiberianCommand22&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiberianCommand22&layout=compact&theme=radical)
+- Broken Access Control
+- Open Redirect & SSRF
+- JWT Misconfiguration
+- SQL Injection & XSS
+- Security Headers & CORS
 
-## Connect
+## Statistik
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SiberianCommand22&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiberianCommand22&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+## Kontak
 
 - GitHub: [SiberianCommand22](https://github.com/SiberianCommand22)
 - Website: [sekilatinfo.my.id](https://sekilatinfo.my.id)
